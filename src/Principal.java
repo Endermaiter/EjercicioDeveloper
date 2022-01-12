@@ -6,5 +6,6 @@ public class Principal {
 
         System.out.println("Marcos");
         System.out.println("Pablo");
+        System.out.println(" Samuel ");
     }
 }
